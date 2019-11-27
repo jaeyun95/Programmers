@@ -1,4 +1,4 @@
-#(1) 완주하지 못한 선수
+#(1) 쇠막대기
 
 def solution(arrangement):
     answer = 0
