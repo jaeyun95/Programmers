@@ -7,14 +7,14 @@
 문제의 제목은 파일 안에 주석으로 적어놨습니다.
 
 - - -
-*Level1
+>Level1
 1.  [완주하지 못한 선수](https://github.com/jaeyun95/Programmers/blob/master/level1/level1_ex01.py)
 2.  [모의고사](https://github.com/jaeyun95/Programmers/blob/master/level1/level1_ex02.py) 
 3.  [k번째수](https://github.com/jaeyun95/Programmers/blob/master/level1/level1_ex03.py)
 4.  [가운데 글자 가져오기](https://github.com/jaeyun95/Programmers/blob/master/level1/level1_ex04.py)
 5.  [나누어 떨어지는 숫자 배열](https://github.com/jaeyun95/Programmers/blob/master/level1/level1_ex05.py)
 6.  [문자열 내 마음대로 정렬하기](https://github.com/jaeyun95/Programmers/blob/master/level1/level1_ex06.py)
-7.  [문자열 내림차순으로 배치하기][https://github.com/jaeyun95/Programmers/blob/master/level1/level1_ex07.py)
+7.  [문자열 내림차순으로 배치하기](https://github.com/jaeyun95/Programmers/blob/master/level1/level1_ex07.py)
 8.  [서울에서 김서방 찾기](https://github.com/jaeyun95/Programmers/blob/master/level1/level1_ex08.py)
 9.  [수박수박수박수박수박수?](https://github.com/jaeyun95/Programmers/blob/master/level1/level1_ex09.py)
 10. [2016년](https://github.com/jaeyun95/Programmers/blob/master/level1/level1_ex10.py)
@@ -49,7 +49,7 @@
 39. [[1차]다트게임](https://github.com/jaeyun95/Programmers/blob/master/level1/level1_ex39.py)
 
 - - -
-*Level2
+>Level2
 1.  [쇠막대기](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex01.py)
 2.  [기능개발](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex02.py)
 3.  [124 나라의 숫자](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex03.py)
