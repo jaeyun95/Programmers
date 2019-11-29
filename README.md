@@ -1,13 +1,11 @@
 # Programmers
 프로그래머스 문제풀이
-
+======================
 문제 및 자세한 설명
-▶(blog.naver.com/jaeyoon_95)
-
-문제의 제목은 파일 안에 주석으로 적어놨습니다.
+▶[jaeyun's blog](blog.naver.com/jaeyoon_95)
 
 - - -
->Level1
+## Level1
 1.  [완주하지 못한 선수](https://github.com/jaeyun95/Programmers/blob/master/level1/level1_ex01.py)
 2.  [모의고사](https://github.com/jaeyun95/Programmers/blob/master/level1/level1_ex02.py) 
 3.  [k번째수](https://github.com/jaeyun95/Programmers/blob/master/level1/level1_ex03.py)
@@ -49,7 +47,7 @@
 39. [[1차]다트게임](https://github.com/jaeyun95/Programmers/blob/master/level1/level1_ex39.py)
 
 - - -
->Level2
+## Level2
 1.  [쇠막대기](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex01.py)
 2.  [기능개발](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex02.py)
 3.  [124 나라의 숫자](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex03.py)
