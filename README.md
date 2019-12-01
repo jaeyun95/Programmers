@@ -72,3 +72,4 @@
 22. [다음 큰 숫자](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex22.py)
 23. [JadenCase 문자열 만들기](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex23.py)
 24. [숫자의 표현](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex24.py)
+25. [올바른 괄호](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex25.py)
