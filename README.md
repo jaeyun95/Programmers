@@ -75,3 +75,4 @@
 25. [올바른 괄호](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex25.py)
 26. [포켓몬](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex26.py)
 27. [오픈채팅방](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex27.py)
+28. [소수 만들기](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex28.py)
