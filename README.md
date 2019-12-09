@@ -77,3 +77,4 @@
 27. [오픈채팅방](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex27.py)
 28. [소수 만들기](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex28.py)
 29. [짝지어 제거하기](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex29.py)
+30. [N개의 최소공배수](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex30.py)
