@@ -76,3 +76,4 @@
 26. [포켓몬](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex26.py)
 27. [오픈채팅방](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex27.py)
 28. [소수 만들기](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex28.py)
+29. [짝지어 제거하기](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex29.py)
