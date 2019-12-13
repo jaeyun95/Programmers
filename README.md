@@ -81,3 +81,4 @@
 31. [점프와 순간 이동](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex31.py)
 32. [타겟 넘버](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex32.py)
 33. [예상 대진표](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex33.py)
+34. [땅따먹기](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex34.py)
