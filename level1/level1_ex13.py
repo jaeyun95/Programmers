@@ -1,4 +1,4 @@
-#(13) 같은 숫자는 싫어
+#(13) 두 정수 사이의 합
 
 def solution(a, b):
     if a == b : return a
