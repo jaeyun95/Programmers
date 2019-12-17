@@ -1,4 +1,4 @@
-#(36) [3]차 파일명 정렬
+#(36) [3차] 파일명 정렬
 
 import re
 def solution(files):
