@@ -87,3 +87,4 @@
 35. [영어 끝말잇기](https://blog.naver.com/jaeyoon_95/221738180940)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex35.py)
 36. [[3차] 파일명 정렬](https://blog.naver.com/jaeyoon_95/221738445434)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex36.py)
 37. [[1차] 뉴스 클러스터링](https://blog.naver.com/jaeyoon_95/221740577229)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex37.py)
+38. [조이스틱](https://blog.naver.com/jaeyoon_95/221740770765)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex38.py)
