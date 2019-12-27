@@ -88,4 +88,5 @@
 36. [[3차] 파일명 정렬](https://blog.naver.com/jaeyoon_95/221738445434)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex36.py)
 37. [[1차] 뉴스 클러스터링](https://blog.naver.com/jaeyoon_95/221740577229)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex37.py)
 38. [조이스틱](https://blog.naver.com/jaeyoon_95/221740770765)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex38.py)
-38. [카펫](https://blog.naver.com/jaeyoon_95/221742960068)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex39.py)
+39. [카펫](https://blog.naver.com/jaeyoon_95/221742960068)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex39.py)
+40. [[1차]캐시](https://blog.naver.com/jaeyoon_95/221751139542)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex40.py)
