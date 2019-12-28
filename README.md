@@ -90,3 +90,4 @@
 38. [조이스틱](https://blog.naver.com/jaeyoon_95/221740770765)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex38.py)
 39. [카펫](https://blog.naver.com/jaeyoon_95/221742960068)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex39.py)
 40. [[1차]캐시](https://blog.naver.com/jaeyoon_95/221751139542)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex40.py)
+41. [라면공장](https://blog.naver.com/jaeyoon_95/221751307557)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex41.py)
