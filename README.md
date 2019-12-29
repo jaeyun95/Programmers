@@ -92,3 +92,4 @@
 40. [[1차]캐시](https://blog.naver.com/jaeyoon_95/221751139542)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex40.py)
 41. [라면공장](https://blog.naver.com/jaeyoon_95/221751307557)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex41.py)
 42. [숫자 야구](https://blog.naver.com/jaeyoon_95/221752696659)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex42.py)
+43. [가장 큰 정사각형 찾기](https://blog.naver.com/jaeyoon_95/221753752967)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex43.py)
