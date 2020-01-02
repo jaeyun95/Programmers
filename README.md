@@ -97,3 +97,4 @@
 45. [[1차]프렌즈4블록](https://blog.naver.com/jaeyoon_95/221757680690)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex45.py)
 46. [괄호 변환](https://blog.naver.com/jaeyoon_95/221757771820)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex46.py)
 47. [[3차]n진수 게임](https://blog.naver.com/jaeyoon_95/221757873570)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex47.py)
+48. [[3차]압축](https://blog.naver.com/jaeyoon_95/221757982665)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex48.py)
