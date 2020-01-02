@@ -94,3 +94,4 @@
 42. [숫자 야구](https://blog.naver.com/jaeyoon_95/221752696659)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex42.py)
 43. [가장 큰 정사각형 찾기](https://blog.naver.com/jaeyoon_95/221753752967)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex43.py)
 44. [후보키](https://blog.naver.com/jaeyoon_95/221756357659)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex44.py)
+45. [[1차]프렌즈4블록](https://blog.naver.com/jaeyoon_95/221757680690)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex45.py)
