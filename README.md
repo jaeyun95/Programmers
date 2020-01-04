@@ -99,3 +99,10 @@
 47. [[3차]n진수 게임](https://blog.naver.com/jaeyoon_95/221757873570)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex47.py)
 48. [[3차]압축](https://blog.naver.com/jaeyoon_95/221757982665)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex48.py)
 49. [[3차]방금그곡](https://blog.naver.com/jaeyoon_95/221758073646)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex49.py)
+
+
+
+- - -
+## Level3
+1.  [타일 장식물](https://blog.naver.com/jaeyoon_95/221758398813)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex01.py)
+2.  [정수 삼각형](https://blog.naver.com/jaeyoon_95/221758478794)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex02.py)
