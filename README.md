@@ -110,3 +110,4 @@
 4.  [하노이의 탑](https://blog.naver.com/jaeyoon_95/221762231876)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex04.py)
 5.  [네트워크](https://blog.naver.com/jaeyoon_95/221763404171)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex05.py)
 6.  [2xn타일링](https://blog.naver.com/jaeyoon_95/221764711037)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex06.py)
+7.  [단어 변환](https://blog.naver.com/jaeyoon_95/221766184665)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex07.py)
