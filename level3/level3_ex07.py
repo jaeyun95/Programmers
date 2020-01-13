@@ -1,4 +1,4 @@
-#(7) 단어 변환
+#(7) 단어변환
 
 def solution(begin,target,words):
     if target not in words:
