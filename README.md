@@ -113,3 +113,4 @@
 7.  [단어 변환](https://blog.naver.com/jaeyoon_95/221766184665)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex07.py)
 8.  [멀리 뛰기](https://blog.naver.com/jaeyoon_95/221767418830)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex08.py)
 9.  [이중우선순위큐](https://blog.naver.com/jaeyoon_95/221768909836)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex09.py)
+10.  [야근 지수](https://blog.naver.com/jaeyoon_95/221771417379)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex10.py)
