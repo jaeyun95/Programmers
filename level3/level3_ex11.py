@@ -5,13 +5,13 @@ def solution(tickets):
     for ticket in tickets:
         information[ticket[0]] = information.get(ticket[0],[]) + [ticket[1]]
     for infor in information:
-        information[infor].sort()
+        information[infor].sort(reverse=True)
     answer = []
     now = ["ICN"]
     while now:
         top = now[-1]
-        if top not in information or not information[top]: answer.append(now.pop(0))
+        if top not in information or not information[top]: answer.append(now.pop())
         else:
-            now.append(information[top][0])
-            information[top] = information[top][1:]
-    return answer
+            now.append(information[top][-1])
+            information[top] = information[top][:-1]
+    return answer[::-1]
