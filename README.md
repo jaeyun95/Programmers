@@ -116,3 +116,4 @@
 10.  [야근 지수](https://blog.naver.com/jaeyoon_95/221771417379)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex10.py)
 11.  [여행경로](https://blog.naver.com/jaeyoon_95/221776615215)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex11.py)
 12.  [거스름돈](https://blog.naver.com/jaeyoon_95/221777150657)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex12.py)
+13.  [등굣길](https://blog.naver.com/jaeyoon_95/221777899359)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex13.py)
