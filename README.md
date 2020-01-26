@@ -119,3 +119,4 @@
 13.  [등굣길](https://blog.naver.com/jaeyoon_95/221777899359)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex13.py)
 14.  [줄 서는 방법](https://blog.naver.com/jaeyoon_95/221781918942)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex14.py)
 15.  [종이접기](https://blog.naver.com/jaeyoon_95/221783992818)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex15.py)
+16.  [[1차]추석 트래픽](https://blog.naver.com/jaeyoon_95/221785623474)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex16.py)
