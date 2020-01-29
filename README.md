@@ -122,3 +122,4 @@
 16.  [[1차]추석 트래픽](https://blog.naver.com/jaeyoon_95/221785623474)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex16.py)
 17.  [최고의 집합](https://blog.naver.com/jaeyoon_95/221785629862)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex17.py)
 18.  [숫자 게임](https://blog.naver.com/jaeyoon_95/221787938627)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex18.py)
+19.  [기지국 설치](https://blog.naver.com/jaeyoon_95/221789210628)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex19.py)
