@@ -125,3 +125,4 @@
 19.  [기지국 설치](https://blog.naver.com/jaeyoon_95/221789210628)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex19.py)
 20.  [방문 길이](https://blog.naver.com/jaeyoon_95/221790432130)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex20.py)
 21.  [가장 긴 팰린드롬](https://blog.naver.com/jaeyoon_95/221790815738)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex21.py)
+22.  [저울](https://blog.naver.com/jaeyoon_95/221829156783)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex22.py)
