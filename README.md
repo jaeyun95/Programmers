@@ -127,3 +127,4 @@
 21.  [가장 긴 팰린드롬](https://blog.naver.com/jaeyoon_95/221790815738)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex21.py)
 22.  [저울](https://blog.naver.com/jaeyoon_95/221829156783)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex22.py)
 23.  [가장 먼 노드](https://blog.naver.com/jaeyoon_95/221829882739)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex23.py)
+24.  [순위](https://blog.naver.com/jaeyoon_95/221845693589)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex24.py)
