@@ -128,4 +128,5 @@
 22.  [저울](https://blog.naver.com/jaeyoon_95/221829156783)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex22.py)
 23.  [가장 먼 노드](https://blog.naver.com/jaeyoon_95/221829882739)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex23.py)
 24.  [순위](https://blog.naver.com/jaeyoon_95/221845693589)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex24.py)
-24.  [디스크 컨트롤러](https://blog.naver.com/jaeyoon_95/221857035876)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex25.py)
+25.  [디스크 컨트롤러](https://blog.naver.com/jaeyoon_95/221857035876)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex25.py)
+26.  [입국심사](https://blog.naver.com/jaeyoon_95/221858749208)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex26.py)
