@@ -132,3 +132,4 @@
 26.  [입국심사](https://blog.naver.com/jaeyoon_95/221858749208)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex26.py)
 27.  [예산](https://blog.naver.com/jaeyoon_95/221860748324)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex27.py)
 28.  [단속카메라](https://blog.naver.com/jaeyoon_95/221867231172)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex28.py)
+29.  [﻿N으로 표현](https://blog.naver.com/jaeyoon_95/221867231172)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex29.py)
