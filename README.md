@@ -136,3 +136,4 @@
 30.  [섬 연결하기](https://blog.naver.com/jaeyoon_95/221872563653)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex30.py)
 31.  [N-Queen](https://blog.naver.com/jaeyoon_95/221877771560)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex31.py)
 32.  [배달](https://blog.naver.com/jaeyoon_95/221885192789)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex32.py)
+33.  [[1차]셔틀버스](https://blog.naver.com/jaeyoon_95/221885192789)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex33.py)
