@@ -1,6 +1,7 @@
 #(29) N으로 표현
 
 def solution(N, number):
+    if  N == number: return 1
     answer = -1
     S = [set() for x in range(8)]
     for i,x in enumerate(S, start=1):
