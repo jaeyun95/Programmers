@@ -45,7 +45,7 @@
 37. [[1차]비밀지도](https://blog.naver.com/jaeyoon_95/221703901363)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level1/level1_ex37.py)
 38. [문자열 압축](https://blog.naver.com/jaeyoon_95/221704595432)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level1/level1_ex38.py)
 39. [[1차]다트게임](https://blog.naver.com/jaeyoon_95/221705684027)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level1/level1_ex39.py)
-
+40. [신규 아이디 추천](https://blog.naver.com/jaeyoon_95/222294057850)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level1/level1_ex40.py)
 
 
 - - -
