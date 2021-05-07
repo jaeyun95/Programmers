@@ -137,4 +137,5 @@
 31.  [N-Queen](https://blog.naver.com/jaeyoon_95/221877771560)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex31.py)
 32.  [배달](https://blog.naver.com/jaeyoon_95/221885192789)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex32.py)
 33.  [[1차]셔틀버스](https://blog.naver.com/jaeyoon_95/221904129221)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex33.py)
-33.  [불량 사용자](https://blog.naver.com/jaeyoon_95/221904222953)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex34.py)
+34.  [불량 사용자](https://blog.naver.com/jaeyoon_95/221904222953)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex34.py)
+35.  [보석 쇼핑](https://blog.naver.com/jaeyoon_95/222342012242)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex35.py)
