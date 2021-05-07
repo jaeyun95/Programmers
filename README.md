@@ -99,7 +99,7 @@
 47. [[3차]n진수 게임](https://blog.naver.com/jaeyoon_95/221757873570)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex47.py)
 48. [[3차]압축](https://blog.naver.com/jaeyoon_95/221757982665)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex48.py)
 49. [[3차]방금그곡](https://blog.naver.com/jaeyoon_95/221758073646)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex49.py)
-
+50. [수식 최대화](https://blog.naver.com/jaeyoon_95/222341668113)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level2/level2_ex50.py)
 
 
 - - -
