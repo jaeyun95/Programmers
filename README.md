@@ -139,3 +139,4 @@
 33.  [[1차]셔틀버스](https://blog.naver.com/jaeyoon_95/221904129221)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex33.py)
 34.  [불량 사용자](https://blog.naver.com/jaeyoon_95/221904222953)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex34.py)
 35.  [보석 쇼핑](https://blog.naver.com/jaeyoon_95/222342012242)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex35.py)
+36.  [합승 택시 요금](https://blog.naver.com/jaeyoon_95/222358607641)  [[코드]](https://github.com/jaeyun95/Programmers/blob/master/level3/level3_ex36.py)
